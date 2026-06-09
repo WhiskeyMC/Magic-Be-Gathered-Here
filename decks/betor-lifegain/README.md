@@ -14,20 +14,6 @@ The deck wants to gain life often, build a scary board, and use lifegain payoffs
 
 ---
 
-## 🖼️ Visual Deck Sheets
-
-Every 100-card deck in **The Spellbook Files** will usually have **two visual images** so the cards are easier to see instead of being crammed into one giant tiny poster.
-
-### Image 1 — Lands, Ramp, and Lifegain Core
-
-![Betor Lands, Ramp, and Lifegain](betor-lands-ramp.jpeg)
-
-### Image 2 — Payoffs, Value, Recursion, and Interaction
-
-![Betor Payoffs, Value, and Interaction](Betor-payoffs-value-interaction.jpeg)
-
----
-
 ## 📦 Download
 
 * [Download Decklist TXT](betor-lifegain.txt)
@@ -215,6 +201,20 @@ Some of the scarier cards in the deck include:
 ```txt
 1 Cleric Class
 ```
+
+---
+
+## 🖼️ Visual Deck Sheets
+
+Every 100-card deck in **The Spellbook Files** will usually have **two visual images** so the cards are easier to see instead of being crammed into one giant tiny poster.
+
+### Image 1 — Lands, Ramp, and Lifegain Core
+
+![Betor Lands, Ramp, and Lifegain](betor-lands-ramp.jpeg)
+
+### Image 2 — Payoffs, Value, Recursion, and Interaction
+
+![Betor Payoffs, Value, and Interaction](Betor-payoffs-value-interaction.jpeg)
 
 ---
 
