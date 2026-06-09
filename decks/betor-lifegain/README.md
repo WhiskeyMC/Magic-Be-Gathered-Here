@@ -20,7 +20,7 @@ Every 100-card deck in **The Spellbook Files** will usually have **two visual im
 
 ### Image 1 — Lands, Ramp, and Lifegain Core
 
-![Betor Lands, Ramp, and Lifegain](betor-lands-ramp-lifegain.jpeg)
+![Betor Lands, Ramp, and Lifegain](betor-lands-ramp.jpeg)
 
 ### Image 2 — Payoffs, Value, Recursion, and Interaction
 
