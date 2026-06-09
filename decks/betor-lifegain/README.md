@@ -223,3 +223,14 @@ Every 100-card deck in **The Spellbook Files** will usually have **two visual im
 This deck may change over time as cards get tested, cut, upgraded, resurrected, judged unfair, or returned to the pile because they looked cool.
 
 Newest files in this folder are the current version.
+
+---
+
+## 🗂️ Downloads & Extras
+
+| File | What It Is | Download |
+|---|---|---|
+| Decklist | Copy/paste decklist for imports or quick editing | [Download TXT](betor-lifegain.txt) |
+| Visual Sheet 1 | Lands, ramp, and lifegain core | [Download Image](betor-lands-ramp.jpeg) |
+| Visual Sheet 2 | Payoffs, value, recursion, and interaction | [Download Image](Betor-payoffs-value-interaction.jpeg) |
+| Deck Background | Background / inspiration image for the deck | [Download Image](BetorBackground.jpg) | 
