@@ -24,7 +24,7 @@ Every 100-card deck in **The Spellbook Files** will usually have **two visual im
 
 ### Image 2 — Payoffs, Value, Recursion, and Interaction
 
-![Betor Payoffs, Value, and Interaction](betor-payoffs-value-interaction.jpeg)
+![Betor Payoffs, Value, and Interaction](Betor-payoffs-value-interaction.jpeg)
 
 ---
 
