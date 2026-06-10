@@ -305,7 +305,7 @@ Because the curse had made sacrifice the only language his kingdom still underst
 ---
 
 <p align="center">
-  <img src="./images/korvold/Eldraine3.png" alt="The wide lands beneath Korvold's curse" width="90%">
+  <img src="./images/korvold/Eldraine3.webp" alt="The wide lands beneath Korvold's curse" width="90%">
 </p>
 
 <p align="center">
