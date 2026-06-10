@@ -49,11 +49,9 @@ Each deck may include:
 * The decklist
 * Commander image
 * Key card images
-* A preview image
 * Notes about how the deck plays
-* Deck lore or story pages
 * Downloadable files for importing into deckbuilders
-* Random emotional damage caused during testing
+* The emotional damage inccured during testing
 
 ---
 
@@ -68,7 +66,7 @@ I may post decks as:
 * Image previews
 * Zipped deck folders
 
-Basically, whatever makes the deck easiest to look at, download, read, and send around.
+Basically, whatever makes the deck easiest to look at, download, read, and use inbetween my personal file setups.
 
 ---
 
