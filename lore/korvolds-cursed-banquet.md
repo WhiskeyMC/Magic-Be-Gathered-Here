@@ -142,7 +142,7 @@ It was his master.
 ---
 
 <p align="center">
-  <img src="./images/korvold/en_53ec3c36c1-1982640686.png" alt="Korvold, the Fae-Cursed King" width="75%">
+  <img src="./images/korvold/woc-38-korvold-gleeful-glutton.jpg" alt="Korvold, the Fae-Cursed King" width="75%">
 </p>
 
 <p align="center">
