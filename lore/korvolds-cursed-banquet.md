@@ -80,7 +80,7 @@ It was his master.
 </p>
 
 <p align="center">
-  <em>A king crowned in scale and famine.</em>
+  <em>The king was not found at all. Only Korvold remained.</em>
 </p>
 
 ---
@@ -89,7 +89,11 @@ It was his master.
 
 So the wedding feast became the first offering.
 
-The tables split beneath him. The silver bent. The candles guttered low, not as if the wind had touched them, but as if even fire wished to bow its head and be forgotten. The music faltered note by note until only the breathing of the guests remained.
+The tables split beneath him. The silver bent. The candles guttered low, not as if the wind had touched them, but as if even fire wished to bow its head and be forgotten.
+
+The music faltered note by note.
+
+Then the breathing of the guests.
 
 Then even that was taken.
 
@@ -128,9 +132,15 @@ The banquet had not.
 
 ## 🏰 The Law of the Banquet
 
-For curses born of the fae do not die when their first joke is spent. They linger. They learn. They crawl into custom, into law, into the soft mouths of those who survive long enough to explain why the horror must continue.
+For curses born of the fae do not die when their first joke is spent.
 
-By dawn, the servants who had hidden beneath the stairwells came forth and found the dragon sleeping upon a hill of gifts and bones. None dared wake him. None dared flee him. For the doors of the hall stood open, yet every road beyond them seemed suddenly longer than it had before.
+They linger.
+
+They learn.
+
+They crawl into custom, into law, into the soft mouths of those who survive long enough to explain why the horror must continue.
+
+By dawn, the servants who had hidden beneath the stairwells came forth and found the dragon sleeping upon a hill of gifts and bones. None dared wake him. None dared flee him. The doors of the hall stood open, yet every road beyond them seemed suddenly longer than it had before.
 
 So they cleaned.
 
@@ -208,7 +218,13 @@ Still the banquet widened.
 
 It did not stay within the hall.
 
-It slipped into the villages like smoke beneath a door. It sat at family tables. It waited in market stalls. It hid in the sound of coins changing hands.
+It slipped into the villages like smoke beneath a door.
+
+It sat at family tables.
+
+It waited in market stalls.
+
+It hid in the sound of coins changing hands.
 
 A farmer paid in grain.
 
@@ -225,16 +241,6 @@ All plenty became promise.
 All promise became tribute.
 
 And all tribute, in time, became Korvold.
-
----
-
-<p align="center">
-  <img src="./images/korvold/Eldraine2.png" alt="The wide lands beneath Korvold's curse" width="90%">
-</p>
-
-<p align="center">
-  <em>The fields still bent beneath gold light. Beauty does not save a kingdom from hunger.</em>
-</p>
 
 ---
 
@@ -256,7 +262,11 @@ That was the old joke of the wedding, still laughing beneath the curse.
 > **Every guest is counted.**
 > **Every guest is meat, should the table ask it.**
 
-Yet the dragon was no mindless beast. That would have been mercy. A beast eats and sleeps and forgets the shape of what it has ruined.
+Yet the dragon was no mindless beast.
+
+That would have been mercy.
+
+A beast eats and sleeps and forgets the shape of what it has ruined.
 
 Korvold remembered.
 
@@ -291,6 +301,16 @@ Because the crown demanded it.
 He sacrificed.
 
 Because the curse had made sacrifice the only language his kingdom still understood.
+
+---
+
+<p align="center">
+  <img src="./images/korvold/Eldraine2.png" alt="The wide lands beneath Korvold's curse" width="90%">
+</p>
+
+<p align="center">
+  <em>The fields still bent beneath gold light. Beauty does not save a kingdom from hunger.</em>
+</p>
 
 ---
 
@@ -394,7 +414,7 @@ Before the curse became law, Eldraine was still beautiful.
 
 That is the cruelty of it.
 
-The fields still bent beneath gold light. The rivers still carried morning through the valleys. Castles still rose from mist and water as if no shadow could ever reach them. Yet beauty does not save a kingdom from hunger. Sometimes it only makes the feast look holy.
+These are the lands beneath the banquet — the roads, waters, fields, and towers that learned to live under the shadow of a hungry king.
 
 <p align="center">
   <a href="./images/korvold/Eldraine1.jpg">
