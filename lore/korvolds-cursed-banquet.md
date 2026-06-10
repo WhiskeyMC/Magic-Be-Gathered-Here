@@ -51,6 +51,72 @@ And they gave it claws.
 
 ---
 
+## 🍷 The Bride’s Cup
+
+Before the screaming, there was still music.
+
+Before the dragon, there was still a man.
+
+Korvold sat beneath the wedding banners with gold upon his fingers, gold upon his throat, and gold piled before him like proof that the world had remembered its place.
+
+Beside him sat the bride.
+
+Veiled in white.
+
+Her cup untouched.
+
+Her hands folded so tightly the knuckles had gone pale.
+
+She had seen the fae enter.
+
+Others had laughed at them.
+
+Small things, they thought.
+
+Pretty things.
+
+Winged things.
+
+Harmless things.
+
+But the bride did not laugh.
+
+For the fae did not look upon the feast as guests look upon a celebration. They looked upon it as judges look upon a sentence already written.
+
+One offered Korvold a blessing.
+
+One offered him a gift.
+
+One offered him a truth.
+
+And because the king had spent his life mistaking possession for worth, he reached for all three.
+
+The bride whispered his name once.
+
+Not loudly.
+
+Not enough to stop him.
+
+Only enough for the curse to hear that someone in the room still believed there was a man left to save.
+
+Then Korvold drank.
+
+And the cup did not empty.
+
+It deepened.
+
+The wine darkened until it reflected nothing. Not the candles. Not the gold. Not the bride’s white veil. Not even the face of the king who held it.
+
+Korvold looked into the cup and saw hunger looking back.
+
+For one breath, he understood.
+
+For one breath, he was afraid.
+
+Then the hunger smiled with his mouth.
+
+---
+
 ## 👑 The King Revealed
 
 The curse did not create Korvold.
@@ -85,17 +151,51 @@ It was his master.
 
 ---
 
-## 🍷 The First Offering
+## 🐉 The First Offering
 
-So the wedding feast became the first offering.
+The change did not come like lightning.
 
-The tables split beneath him. The silver bent. The candles guttered low, not as if the wind had touched them, but as if even fire wished to bow its head and be forgotten.
+That would have been kinder.
 
-The music faltered note by note.
+It came slowly enough for everyone to understand that the king was still inside it.
 
-Then the breathing of the guests.
+His fingers split around his rings. His nails blackened into claws. The crown bent against the swelling of his skull, groaning like a gate before it breaks. His robes tore first at the shoulders, then at the spine, where something vast and winged pressed outward from beneath the shape of a man.
 
-Then even that was taken.
+The hall did not flee at once.
+
+That was the horror of it.
+
+Some watched because they did not believe.
+
+Some watched because they could not move.
+
+Some watched because they were waiting for the king to command them.
+
+And Korvold did command them.
+
+He opened his mouth to speak.
+
+Only hunger came out.
+
+The first thing he ate was not a soldier.
+
+Not a traitor.
+
+Not an enemy.
+
+It was the feast itself.
+
+The roasted meats vanished beneath him. The sugared fruits burst beneath his teeth. Silver platters folded like leaves. Goblets shattered. Wine ran across the table in red rivers, and still he fed, dragging the celebration into himself as if the whole wedding had only ever been another animal waiting to be butchered.
+
+Then he ate the gifts.
+
+Chests of coin. Velvet-wrapped blades. Rings. Deeds. Crowns from lesser houses. Dowries carried by fathers who had smiled too hard and bowed too low.
+
+He swallowed gold until his throat shone from within.
+
+And then, when the tables were broken and the gifts were gone, the dragon lifted his head toward the guests.
+
+Only then did the hall remember how to scream.
 
 The king devoured the banquet.
 
@@ -123,6 +223,66 @@ And when the hall at last fell silent, when the golden plates lay empty and the 
 
 > **Nothing is wasted.**
 > **Everything is tribute.**
+
+---
+
+## 🕯️ The Names That Were Invited
+
+The old songs do not agree on who died first.
+
+Some say it was the steward, who stepped forward with trembling hands and begged his king to remember himself.
+
+Some say it was a knight of the realm, foolish enough to draw steel in a room where the monster still wore the crown.
+
+Some say it was a noble lord who had come to the wedding with seven gifts and left behind seven empty chairs.
+
+And some say the first was no one important at all.
+
+A servant.
+
+A cupbearer.
+
+A child of the kitchens who had only come near the high table because someone had dropped a knife.
+
+The truth was swallowed with the rest of them.
+
+That is what Korvold’s curse does.
+
+It does not merely kill.
+
+It removes the witness.
+
+It eats the body, the name, the debt, the apology, the final word. It leaves behind only what frightened kingdoms are willing to carve into history.
+
+The banquet.
+
+The gifts.
+
+The guests.
+
+Three clean words for a room that died badly.
+
+Three polite words for silver under blood, flowers under ash, and a bride’s veil lying where no bride remained.
+
+Whether she fled, fell, or was taken, no tale dares speak plainly.
+
+Perhaps mercy hid her.
+
+Perhaps the fae did.
+
+Perhaps Korvold himself, in the last ruined corner of his human soul, turned away before the hunger could learn her name.
+
+Or perhaps that is only the lie Eldraine tells itself so the story can still be told beside a fire.
+
+What is known is this:
+
+By dawn, the wedding hall was empty.
+
+The doors stood open.
+
+The gold was warm.
+
+And on the throne, where a greedy king had once sat counting his blessings, a dragon slept among bones, gifts, and broken vows.
 
 The feast had ended.
 
