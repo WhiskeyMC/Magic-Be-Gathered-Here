@@ -12,7 +12,6 @@ Each deck gets its own file or folder with the decklist, pictures, notes, lore, 
 
 | Deck                | Vibe                                                   | File        |
 | ------------------- | ------------------------------------------------------ | ----------- |
-| 🌿 Rhys Tokens      | Tiny creatures become a very large problem             | Coming soon |
 | 🐉 Korvold Treasure | Greed, treasure, sacrifice, and suspicious dragon math | Coming soon |
 | 🖤 Betor Lifegain | Gain life, drain life, refuse to die politely | [Open deck →](./decks/betor-lifegain/README.md) |
 | ☠️ Fortress Poison  | Hide behind walls, then make everyone nervous          | Coming soon |
