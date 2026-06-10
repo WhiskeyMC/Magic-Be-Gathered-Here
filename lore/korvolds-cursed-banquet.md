@@ -1,4 +1,3 @@
-
 # 🐉 Korvold’s Cursed Banquet
 
 <p align="center">
@@ -9,12 +8,16 @@
 ---
 
 <p align="center">
-  <img src="./images/korvold-banquet-banner.png" alt="Korvold's Cursed Banquet banner" width="100%">
+  <img src="./images/korvold/Eldraine1.jpg" alt="The fae-cursed lands of Eldraine" width="100%">
+</p>
+
+<p align="center">
+  <em>The fae-cursed lands of Eldraine, where beauty lingers too long and every road seems to remember a bargain.</em>
 </p>
 
 ---
 
-## 🩸 The Cursed Wedding
+## 🕯️ The Cursed Wedding
 
 In the fae-cursed lands of Eldraine, there reigns a king crowned in scale and famine.
 
@@ -73,7 +76,11 @@ It was his master.
 ---
 
 <p align="center">
-  <img src="./images/korvold-feast.png" alt="A cursed royal banquet beneath the shadow of a dragon" width="85%">
+  <img src="./images/korvold/en_53ec3c36c1-1982640686.png" alt="Korvold, the Fae-Cursed King" width="75%">
+</p>
+
+<p align="center">
+  <em>A king crowned in scale and famine.</em>
 </p>
 
 ---
@@ -119,7 +126,7 @@ The banquet had not.
 
 ---
 
-## 🕯️ The Law of the Banquet
+## 🏰 The Law of the Banquet
 
 For curses born of the fae do not die when their first joke is spent. They linger. They learn. They crawl into custom, into law, into the soft mouths of those who survive long enough to explain why the horror must continue.
 
@@ -162,7 +169,11 @@ And the kingdom had learned to feed him.
 ---
 
 <p align="center">
-  <img src="./images/korvold-treasure-hoard.png" alt="A cursed dragon hoard of gold, bones, and royal offerings" width="85%">
+  <img src="./images/korvold/Eldraine4.png" alt="A distant castle over the waters of Eldraine" width="90%">
+</p>
+
+<p align="center">
+  <em>Castles still rose from mist and water, as if no shadow could ever reach them.</em>
 </p>
 
 ---
@@ -214,6 +225,16 @@ All plenty became promise.
 All promise became tribute.
 
 And all tribute, in time, became Korvold.
+
+---
+
+<p align="center">
+  <img src="./images/korvold/Eldraine2.png" alt="The wide lands beneath Korvold's curse" width="90%">
+</p>
+
+<p align="center">
+  <em>The fields still bent beneath gold light. Beauty does not save a kingdom from hunger.</em>
+</p>
 
 ---
 
@@ -365,6 +386,58 @@ The final course is whoever thought they were invited.
   <strong>Nothing is wasted. Everything is tribute.</strong>
 </p>
 
+---
+
+## 🖼️ The Lands Beneath the Banquet
+
+Before the curse became law, Eldraine was still beautiful.
+
+That is the cruelty of it.
+
+The fields still bent beneath gold light. The rivers still carried morning through the valleys. Castles still rose from mist and water as if no shadow could ever reach them. Yet beauty does not save a kingdom from hunger. Sometimes it only makes the feast look holy.
+
 <p align="center">
-  <a href="./README.md">⬅ Back to Korvold Deck Page</a>
+  <a href="./images/korvold/Eldraine1.jpg">
+    <img src="./images/korvold/Eldraine1.jpg" alt="Eldraine valley and fae-lit tree" width="45%">
+  </a>
+  <a href="./images/korvold/Eldraine2.png">
+    <img src="./images/korvold/Eldraine2.png" alt="Eldraine countryside valley" width="45%">
+  </a>
+</p>
+
+<p align="center">
+  <a href="./images/korvold/Eldraine3.webp">
+    <img src="./images/korvold/Eldraine3.webp" alt="Quiet Eldraine countryside" width="45%">
+  </a>
+  <a href="./images/korvold/Eldraine4.png">
+    <img src="./images/korvold/Eldraine4.png" alt="Castle over the waters of Eldraine" width="45%">
+  </a>
+</p>
+
+<p align="center">
+  <a href="./images/korvold/Eldraine5.png">
+    <img src="./images/korvold/Eldraine5.png" alt="Eldraine coast and distant towers" width="45%">
+  </a>
+  <a href="./images/korvold/Eldrain7.jpg">
+    <img src="./images/korvold/Eldrain7.jpg" alt="A knight beneath the old kingdom's shadow" width="45%">
+  </a>
+</p>
+
+<p align="center">
+  <a href="./images/korvold/woc-38-korvold-gleeful-glutton.jpg">
+    <img src="./images/korvold/woc-38-korvold-gleeful-glutton.jpg" alt="Korvold, Gleeful Glutton" width="45%">
+  </a>
+  <a href="./images/korvold/en_53ec3c36c1-1982640686.png">
+    <img src="./images/korvold/en_53ec3c36c1-1982640686.png" alt="Korvold, the Fae-Cursed King" width="45%">
+  </a>
+</p>
+
+<p align="center">
+  <em>Click any image to open it larger.</em>
+</p>
+
+---
+
+<p align="center">
+  <a href="../README.md">⬅ Back to The Spellbook Files</a>
 </p>
