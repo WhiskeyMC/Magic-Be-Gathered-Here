@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <img src="lore/images/korvold/Eldraine1.jpg" alt="The fae-cursed lands of Eldraine" width="100%">
+  <img src="./images/korvold/Eldraine1.jpg" alt="The fae-cursed lands of Eldraine" width="100%">
 </p>
 
 <p align="center">
