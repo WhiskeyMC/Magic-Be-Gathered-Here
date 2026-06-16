@@ -2,19 +2,21 @@
 
 Gain life, grow threats, bring creatures back, and make dying everyone else’s problem.
 
-This is my **Betor, Ancestor's Voice V2** Commander deck. It is an Abzan lifegain deck built around repeated life triggers, creature growth, drain effects, graveyard setup, and recursion engines that make the deck harder to kill the longer the game goes.
+This is my **Betor, Ancestor's Voice V2** Commander deck. It is an Abzan lifegain deck built around repeated life triggers, creature growth, drain effects, self-mill, and recursion.
 
-This version is sharper than the first build. It leans harder into self-mill, reanimation, and combo pressure, while still keeping the big lifegain-counter finishers that make Betor terrifying.
+This version leans harder into the graveyard than the first build. It still has the huge lifegain-counter finishers, but now it also has more ways to fill the graveyard, bring back key creatures, and turn one good setup turn into a table-ending problem.
 
 ---
 
 ## 🐉 Commander
 
-**Betor, Ancestor's Voice**
+```txt
+1 Betor, Ancestor's Voice
+```
 
-Betor turns lifegain and life loss into a graveyard engine.
+**Betor, Ancestor's Voice** turns life gain and life loss into pressure.
 
-The deck wants to gain life often, lose life on purpose when useful, grow dangerous creatures with counters, and bring key creatures back from the graveyard at the end step. Once Betor is active, the graveyard becomes less like a discard pile and more like a second hand full of threats.
+The deck wants to gain life often, use life as a resource, grow dangerous creatures with counters, and bring important creatures back from the graveyard. Once Betor is active, the graveyard becomes part of the engine instead of just a place where dead cards sit.
 
 ---
 
@@ -24,256 +26,7 @@ The deck wants to gain life often, lose life on purpose when useful, grow danger
 
 ---
 
-## 🧬 Deck Vibe
-
-This deck is about stacking small life triggers until they become a massive problem.
-
-At first, it looks like simple lifegain. A **Soul Warden**, **Essence Warden**, or **Lunarch Veteran** gains a few life here and there. Then the deck starts turning those tiny triggers into counters, drain, recursion, and sudden table-kill loops.
-
-Betor V2 can win through combat, drain effects, lifegain payoffs, graveyard recursion, or a full table loop with **Bloodthirsty Conqueror**. It does not need to win the same way every game. Sometimes it grows a giant board. Sometimes it drains everyone out. Sometimes it fills the graveyard, reanimates the wrong thing at the right time, and the table just collapses.
-
----
-
-## ✨ Main Things the Deck Does
-
-* Gains life repeatedly from creatures entering and lifelink damage
-* Grows creatures with +1/+1 counters
-* Drains opponents whenever life is gained
-* Uses life total as a resource
-* Self-mills to fill the graveyard
-* Reanimates important creatures
-* Rebuilds after removal
-* Can kill one player through combat or drain
-* Can wipe the whole table with Bloodthirsty Conqueror loops
-
----
-
-## 🩸 Cards to Watch
-
-Some of the scariest cards in the deck include:
-
-* **Bloodthirsty Conqueror**
-* **Dina, Soul Steeper**
-* **Marauding Blight-Priest**
-* **Vito, Thorn of the Dusk Rose**
-* **Archangel of Thune**
-* **Nykthos Paragon**
-* **Voice of the Blessed**
-* **Unspeakable Symbol**
-* **Staff of Compleation**
-* **Necropotence**
-* **Doom Whisperer**
-* **Ripples of Undeath**
-* **Living Death**
-* **Inkshield**
-* **Finale of Devastation**
-* **Debtors' Knell**
-
----
-
-## 🧪 Combo Lines and Synergies to Look For
-
-### 🩸 Bloodthirsty Conqueror + Dina / Marauding Blight-Priest
-
-This is one of the main table-kill lines.
-
-```txt
-Bloodthirsty Conqueror
-+ Dina, Soul Steeper
-+ any lifegain trigger
-= each opponent loses life, you gain life, then the loop repeats
-```
-
-This can also work with:
-
-```txt
-Bloodthirsty Conqueror
-+ Marauding Blight-Priest
-+ any lifegain trigger
-```
-
-Once the loop starts, each opponent keeps losing life and Bloodthirsty Conqueror keeps gaining you life from that loss. In paper, this can usually be shortcut. In digital play, it can become a lot of clicking.
-
----
-
-### 🦇 Bloodthirsty Conqueror + Vito
-
-```txt
-Bloodthirsty Conqueror
-+ Vito, Thorn of the Dusk Rose
-+ lifegain
-= one player can die very quickly
-```
-
-This line is usually better at deleting one player than wiping the whole table at once. It is still extremely dangerous because one lifegain trigger can spiral out of control fast.
-
----
-
-### ✨ Archangel of Thune + Soul Sisters
-
-```txt
-Archangel of Thune
-+ Soul Warden / Soul's Attendant / Essence Warden / Lunarch Veteran
-= every lifegain trigger grows your whole board
-```
-
-This is one of the deck’s cleanest “fair” ways to win. Opponents play creatures, you gain life, and Archangel turns every little trigger into permanent board growth.
-
-With enough creatures entering, this can make the board huge without needing an infinite combo.
-
----
-
-### 🌕 Nykthos Paragon + Big Lifegain
-
-```txt
-Nykthos Paragon
-+ lifelink damage / Inkshield / Vault of the Archangel / Sorin lifelink
-= massive counters across the board
-```
-
-Nykthos Paragon can turn one big lifegain event into a lethal board. This card is not just win-more here. It can turn a normal lifelink attack into a table-threatening army.
-
----
-
-### 🧬 Betor + Life Loss Dials
-
-Betor cares about how much life you lost during the turn. This deck can use that on purpose.
-
-Important life-loss tools:
-
-```txt
-Necropotence
-Doom Whisperer
-Unspeakable Symbol
-Staff of Compleation
-Toxic Deluge
-pain lands
-```
-
-These cards let you pay life, fill the graveyard, draw cards, or set up Betor’s end step reanimation.
-
-Example:
-
-```txt
-Pay 6 life with Doom Whisperer
-mill/surveil cards into the graveyard
-end step Betor can return a creature with mana value 6 or less
-```
-
-That makes life loss part of the engine instead of just a downside.
-
----
-
-### 🪦 Stitcher’s Supplier + Lurrus / Betor / Living Death
-
-```txt
-Stitcher's Supplier
-mills cards when it enters
-mills again when it dies
-then can come back later
-```
-
-This card helps the deck start moving faster. It fills the graveyard early and becomes much better when paired with:
-
-```txt
-Lurrus of the Dream-Den
-Betor, Ancestor's Voice
-Living Death
-Reanimate
-Animate Dead
-Debtors' Knell
-```
-
-It is small, but it does exactly what the deck wants.
-
----
-
-### 🌿 Commune with the Gods / Grisly Salvage / Ripples of Undeath
-
-These cards help the deck find important creatures while also filling the graveyard.
-
-Good cards to hit or mill include:
-
-```txt
-Bloodthirsty Conqueror
-Karmic Guide
-Archangel of Thune
-Doom Whisperer
-Lurrus of the Dream-Den
-Dina, Soul Steeper
-Vito, Thorn of the Dusk Rose
-Marauding Blight-Priest
-Animate Dead
-Debtors' Knell
-```
-
-The graveyard is not wasted space in this deck. Milling a good creature often just means Betor or another recursion spell can bring it back later.
-
----
-
-### 🕯️ Karmic Guide + Betor
-
-```txt
-Betor reanimates Karmic Guide
-Karmic Guide reanimates another creature
-```
-
-This is one of the nastier graveyard lines because Karmic Guide can bring back a missing combo creature, a lifegain payoff, or a huge threat.
-
-A scary line looks like:
-
-```txt
-Betor returns Karmic Guide
-Karmic Guide returns Bloodthirsty Conqueror
-Dina or Marauding Blight-Priest is already on board
-any lifegain trigger starts the loop
-```
-
----
-
-### ☠️ Living Death
-
-**Living Death** is one of the deck’s biggest reset buttons.
-
-It can act as:
-
-```txt
-board wipe
-mass reanimation spell
-combo setup
-punishment for removing your creatures
-```
-
-After enough self-mill, Living Death can completely flip the game. Opponents lose their boards, your graveyard comes back, and the deck can suddenly rebuild into lifegain triggers, drain triggers, and combo pieces all at once.
-
----
-
-### 🛡️ Inkshield
-
-**Inkshield** is both protection and a finisher.
-
-It can stop a lethal attack, prevent the damage, and create a huge number of Inkling tokens. With lifegain or drain effects already on board, this can turn one opponent’s attack into the table’s problem.
-
-It is especially scary with:
-
-```txt
-Soul Warden effects
-Dina, Soul Steeper
-Marauding Blight-Priest
-Bloodthirsty Conqueror
-Nykthos Paragon
-Archangel of Thune
-```
-
----
-
 ## 👀 Quick Glance Decklist
-
-### Commander
-
-```txt
-1 Betor, Ancestor's Voice
-```
 
 ### Lands
 
@@ -399,21 +152,95 @@ Archangel of Thune
 
 ---
 
-## 🖼️ Visual Deck Sheets
+## 🧬 Deck Vibe
 
-Visual deck sheets for **Betor V2** will be added separately.
+Betor V2 is not just a lifegain pile.
 
-Every 100-card deck in **The Spellbook Files** will usually have **two visual images** so the cards are easier to see instead of being crammed into one giant tiny poster.
+The deck starts with small life triggers from cards like **Soul Warden**, **Soul's Attendant**, **Essence Warden**, and **Lunarch Veteran**. Those small triggers help the deck survive early, but they also feed the real threats: counters, drain effects, lifelink swings, and graveyard recursion.
+
+The deck can play a slower value game, but it also has explosive turns where one lifegain trigger starts a chain that kills the whole table.
 
 ---
 
-## 📝 Notes
+## ✨ Main Things the Deck Does
 
-This deck may change over time as cards get tested, cut, upgraded, resurrected, judged unfair, or returned to the pile because they looked cool.
+* Gains life repeatedly from creatures entering and lifelink damage
+* Turns lifegain into +1/+1 counters
+* Drains opponents when life is gained
+* Uses life total as a resource
+* Self-mills to fill the graveyard
+* Reanimates important creatures
+* Rebuilds after removal
+* Can kill through combat, drain, recursion, or combo lines
 
-Betor V2 is not just a lifegain pile. It is a lifegain, drain, counter, and graveyard deck that can win fair through combat or unfair through recursion loops.
+---
 
-Newest files in this folder are the current version.
+## 🩸 Cards to Watch
+
+Some of the scariest cards in the deck include:
+
+* **Bloodthirsty Conqueror**
+* **Dina, Soul Steeper**
+* **Marauding Blight-Priest**
+* **Vito, Thorn of the Dusk Rose**
+* **Archangel of Thune**
+* **Nykthos Paragon**
+* **Voice of the Blessed**
+* **Unspeakable Symbol**
+* **Staff of Compleation**
+* **Necropotence**
+* **Doom Whisperer**
+* **Ripples of Undeath**
+* **Living Death**
+* **Inkshield**
+* **Finale of Devastation**
+* **Debtors' Knell**
+
+---
+
+## 🖼️ Visual Deck Sheets
+
+These images are made in smaller groups so the cards stay readable.
+
+### Sheet 1 — The Ancestor’s Door
+
+![Betor V2 Sheet 1](betor-v2-sheet-01-ancestors-door.jpeg)
+
+### Sheet 2 — Bloodstained Roads
+
+![Betor V2 Sheet 2](betor-v2-sheet-02-bloodstained-roads.jpeg)
+
+### Sheet 3 — Vaults, Relics, and Dark Mana
+
+![Betor V2 Sheet 3](betor-v2-sheet-03-vaults-relics-dark-mana.jpeg)
+
+### Sheet 4 — First Blood, First Breath
+
+![Betor V2 Sheet 4](betor-v2-sheet-04-first-blood-first-breath.jpeg)
+
+### Sheet 5 — The Drain Choir
+
+![Betor V2 Sheet 5](betor-v2-sheet-05-drain-choir.jpeg)
+
+### Sheet 6 — Saints Made Monstrous
+
+![Betor V2 Sheet 6](betor-v2-sheet-06-saints-made-monstrous.jpeg)
+
+### Sheet 7 — The Body Remembers
+
+![Betor V2 Sheet 7](betor-v2-sheet-07-body-remembers.jpeg)
+
+### Sheet 8 — Graveyard Prophets
+
+![Betor V2 Sheet 8](betor-v2-sheet-08-graveyard-prophets.jpeg)
+
+### Sheet 9 — Mercy Is a Weapon
+
+![Betor V2 Sheet 9](betor-v2-sheet-09-mercy-is-a-weapon.jpeg)
+
+### Sheet 10 — The Table Dies Here
+
+![Betor V2 Sheet 10](betor-v2-sheet-10-table-dies-here.jpeg)
 
 ---
 
@@ -423,3 +250,246 @@ Newest files in this folder are the current version.
 | --------------- | ------------------------------------------------ | ------------------------------------- |
 | Decklist        | Copy/paste decklist for imports or quick editing | [Download TXT](betor-v2.txt)          |
 | Deck Background | Background / inspiration image for the deck      | [Download Image](BetorBackground.jpg) |
+
+---
+
+## 📝 Notes
+
+This deck may change over time as cards get tested, cut, upgraded, resurrected, judged unfair, or returned to the pile because they looked cool.
+
+Betor V2 can win fairly through combat, but it can also win suddenly through drain loops and graveyard recursion. The deck gets more dangerous the longer the game goes, especially once Betor, recursion, and self-mill are online.
+
+Newest files in this folder are the current version.
+
+---
+
+# 🧪 Combo Lines and Synergies to Look For
+
+This section explains the main lines in the deck. Some of these are full win conditions, while others are value engines that help the deck build toward a win.
+
+---
+
+## 🩸 Bloodthirsty Conqueror + Dina, Soul Steeper
+
+```txt
+Bloodthirsty Conqueror
++ Dina, Soul Steeper
++ any lifegain trigger
+= table-kill loop
+```
+
+This is one of the strongest win lines in the deck.
+
+Once you gain life, **Dina, Soul Steeper** makes each opponent lose 1 life. **Bloodthirsty Conqueror** sees opponents losing life and gains you that much life. That new lifegain triggers Dina again, and the loop continues.
+
+This line can kill the whole table once it starts.
+
+---
+
+## 🩸 Bloodthirsty Conqueror + Marauding Blight-Priest
+
+```txt
+Bloodthirsty Conqueror
++ Marauding Blight-Priest
++ any lifegain trigger
+= table-kill loop
+```
+
+This works similarly to the Dina line.
+
+When you gain life, **Marauding Blight-Priest** makes each opponent lose 1 life. **Bloodthirsty Conqueror** turns that life loss into more lifegain for you, which triggers Marauding Blight-Priest again.
+
+This gives the deck a second version of the same table-ending engine.
+
+---
+
+## 🦇 Bloodthirsty Conqueror + Vito
+
+```txt
+Bloodthirsty Conqueror
++ Vito, Thorn of the Dusk Rose
++ lifegain
+= one opponent can die very quickly
+```
+
+This line is usually better at killing one player than the whole table.
+
+When you gain life, **Vito** makes target opponent lose that much life. **Bloodthirsty Conqueror** gains you life when that opponent loses life, which can keep the chain going.
+
+This is one of the deck’s nastiest single-player kill lines.
+
+---
+
+## ✨ Archangel of Thune + Soul Sisters
+
+```txt
+Archangel of Thune
++ Soul Warden / Soul's Attendant / Essence Warden / Lunarch Veteran
+= every lifegain trigger grows the board
+```
+
+This is one of the deck’s best non-infinite engines.
+
+The soul sister creatures gain life whenever creatures enter. **Archangel of Thune** turns every lifegain trigger into a +1/+1 counter on each creature you control.
+
+In multiplayer, this can grow out of control quickly because opponents are also playing creatures.
+
+---
+
+## 🌕 Nykthos Paragon + Big Lifegain
+
+```txt
+Nykthos Paragon
++ lifelink damage / Inkshield / Vault of the Archangel / Sorin lifelink
+= massive counters across the board
+```
+
+**Nykthos Paragon** turns large lifegain events into huge board growth.
+
+This matters a lot with lifelink damage, **Vault of the Archangel**, **Sorin, Solemn Visitor**, **Inkshield**, and big creatures that can gain a large amount of life at once.
+
+One strong lifegain turn can turn the entire board into lethal attackers.
+
+---
+
+## 🧬 Betor + Life-Loss Tools
+
+Betor cares about how much life you lost during the turn. This deck can use that on purpose.
+
+Important life-loss tools include:
+
+```txt
+Necropotence
+Doom Whisperer
+Unspeakable Symbol
+Staff of Compleation
+Toxic Deluge
+pain lands
+```
+
+These cards let you pay life for value while also setting up Betor’s end step reanimation.
+
+Example:
+
+```txt
+Pay life with Doom Whisperer to surveil.
+Put creatures into the graveyard.
+At the end step, Betor can return a creature with mana value equal to or less than the life you lost.
+```
+
+This makes life loss part of the deck’s engine.
+
+---
+
+## 🪦 Stitcher’s Supplier + Recursion
+
+```txt
+Stitcher's Supplier
++ Lurrus / Betor / Reanimate / Living Death
+= early self-mill and repeat graveyard value
+```
+
+**Stitcher’s Supplier** helps fill the graveyard early. It mills when it enters and mills again when it dies.
+
+That is useful because the deck has many ways to use the graveyard:
+
+```txt
+Lurrus of the Dream-Den
+Betor, Ancestor's Voice
+Reanimate
+Animate Dead
+Living Death
+Debtors' Knell
+Karmic Guide
+Serra Paragon
+```
+
+This card is small, but it helps the deck reach its stronger graveyard lines faster.
+
+---
+
+## 🌿 Commune with the Gods / Grisly Salvage / Ripples of Undeath
+
+These cards help the deck find important pieces while also filling the graveyard.
+
+Good cards to find or mill include:
+
+```txt
+Bloodthirsty Conqueror
+Karmic Guide
+Archangel of Thune
+Doom Whisperer
+Lurrus of the Dream-Den
+Dina, Soul Steeper
+Vito, Thorn of the Dusk Rose
+Marauding Blight-Priest
+Animate Dead
+Debtors' Knell
+Living Death
+```
+
+This deck does not mind putting strong creatures into the graveyard. Many of them can be brought back later by Betor or another recursion spell.
+
+---
+
+## 🕯️ Betor + Karmic Guide
+
+```txt
+Betor returns Karmic Guide.
+Karmic Guide returns another creature.
+```
+
+This is one of the strongest graveyard lines in the deck.
+
+**Betor** can return **Karmic Guide** at the end step. Then **Karmic Guide** can return another creature from the graveyard.
+
+A dangerous line is:
+
+```txt
+Betor returns Karmic Guide.
+Karmic Guide returns Bloodthirsty Conqueror.
+Dina or Marauding Blight-Priest is already on the battlefield.
+Any lifegain trigger can start the loop.
+```
+
+This is why self-mill matters so much in this version of the deck.
+
+---
+
+## ☠️ Living Death
+
+**Living Death** is one of the deck’s biggest comeback cards.
+
+It can work as:
+
+```txt
+a board wipe
+a mass reanimation spell
+a combo setup card
+a punishment for removing your creatures
+```
+
+After enough self-mill, **Living Death** can completely change the game. Opponents lose their boards, your graveyard comes back, and the deck can rebuild into lifegain triggers, drain pieces, and combo threats all at once.
+
+---
+
+## 🛡️ Inkshield
+
+**Inkshield** is both protection and a finisher.
+
+It can stop a lethal attack, prevent the damage, and create a large number of Inkling tokens. Those tokens can then feed the deck’s lifegain and counter engines.
+
+Inkshield is especially dangerous with:
+
+```txt
+Soul Warden effects
+Dina, Soul Steeper
+Marauding Blight-Priest
+Bloodthirsty Conqueror
+Nykthos Paragon
+Archangel of Thune
+```
+
+A huge attack into Inkshield can turn into a huge board for you instead.
+
+---
