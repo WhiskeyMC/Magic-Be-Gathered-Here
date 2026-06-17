@@ -8,13 +8,16 @@ Each deck gets its own file or folder with the decklist, pictures, notes, lore, 
 
 ---
 
+
 ## 🧙 Deck Vault
 
-| Deck                | Vibe                                                   | File        |
-| ------------------- | ------------------------------------------------------ | ----------- |
-| 🐉 Korvold Treasure | Greed, treasure, sacrifice, and suspicious dragon math | Coming soon |
-| 🖤 Betor Lifegain | Gain life, drain life, refuse to die politely | [Open deck →](./decks/betor-lifegain/README.md) |
-| ☠️ Fortress Poison  | Hide behind walls, then make everyone nervous          | Coming soon |
+| Deck                | Vibe                                                            | File                                            |
+| ------------------- | --------------------------------------------------------------- | ----------------------------------------------- |
+| 🐉 Korvold Treasure | Greed, treasure, sacrifice, and suspicious dragon math          | Coming soon                                     |
+| 🖤 Betor Lifegain   | Gain life, drain life, refuse to die politely                   | [Open deck →](./decks/betor-lifegain/README.md) |
+| 🖤🤍💚 Betor V2     | Lifegain, blood, graveyard recursion, and table-ending nonsense | [Open deck →](./decks/Betor%20V2/README.md)     |
+| ☠️ Fortress Poison  | Hide behind walls, then make everyone nervous                   | Coming soon                                     |
+
 
 ---
 
