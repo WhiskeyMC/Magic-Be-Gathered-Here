@@ -28,7 +28,96 @@ The deck wants to gain life often, use life as a resource, grow dangerous creatu
 
 ## 👀 Quick Glance Decklist
 
-### Lands
+### Commander
+
+```txt
+1 Betor, Ancestor's Voice
+```
+
+### Lifegain, Drain, and Payoff Core
+
+```txt
+1 Bloodthirsty Conqueror
+1 Dina, Soul Steeper
+1 Marauding Blight-Priest
+1 Vito, Thorn of the Dusk Rose
+1 Archangel of Thune
+1 Nykthos Paragon
+1 Voice of the Blessed
+1 Exemplar of Light
+1 Righteous Valkyrie
+1 Essence Channeler
+1 Nighthawk Scavenger
+1 Amalia Benavides Aguirre
+1 Trelasarra, Moon Dancer
+1 Winding Constrictor
+1 Branching Evolution
+1 Unspeakable Symbol
+1 Staff of Compleation
+```
+
+### Graveyard, Draw, and Recursion
+
+```txt
+1 Stitcher's Supplier
+1 Commune with the Gods
+1 Grisly Salvage
+1 Buried Alive
+1 Skullclamp
+1 Necropotence
+1 Doom Whisperer
+1 Ripples of Undeath
+1 Ral Zarek, Guest Lecturer
+1 Lurrus of the Dream-Den
+1 Eternal Witness
+1 Priest of Fell Rites
+1 Serra Paragon
+1 Karmic Guide
+1 Animate Dead
+1 Reanimate
+1 Debtors' Knell
+1 Living Death
+```
+
+### Lifegain Starters, Removal, Protection, and Tutors
+
+```txt
+1 Soul Warden
+1 Soul's Attendant
+1 Essence Warden
+1 Suture Priest
+1 Lunarch Veteran
+1 Guide of Souls
+1 Elas il-Kor, Sadistic Pilgrim
+1 Authority of the Consuls
+1 Sorin, Vengeful Bloodlord
+1 Sorin, Solemn Visitor
+1 Inkshield
+1 Toxic Deluge
+1 Swords to Plowshares
+1 Anguished Unmaking
+1 Assassin's Trophy
+1 Finale of Devastation
+1 Demonic Tutor
+1 Eladamri's Call
+```
+
+### Ramp and Mana
+
+```txt
+1 Sol Ring
+1 Arcane Signet
+1 Fellwar Stone
+1 Talisman of Hierarchy
+1 Orzhov Signet
+1 Golgari Signet
+1 Birds of Paradise
+1 Delighted Halfling
+1 Nature's Lore
+1 Farseek
+```
+
+### Nonbasic Lands
 
 ```txt
 1 Command Tower
@@ -52,103 +141,57 @@ The deck wants to gain life often, use life as a resource, grow dangerous creatu
 1 Vault of the Archangel
 1 Sandsteppe Citadel
 1 Bojuka Bog
+```
+
+### Basic Lands
+
+```txt
 6 Forest
 5 Swamp
 4 Plains
 ```
 
-### Ramp and Mana
+---
 
-```txt
-1 Sol Ring
-1 Arcane Signet
-1 Fellwar Stone
-1 Talisman of Hierarchy
-1 Orzhov Signet
-1 Golgari Signet
-1 Birds of Paradise
-1 Delighted Halfling
-1 Nature's Lore
-1 Farseek
-```
+## 🖼️ Visual Deck Sheets
 
-### Lifegain and Drain Engines
+These images show the deck in readable groups. The strongest cards and main engine pieces come first, while lands stay together at the bottom.
 
-```txt
-1 Soul Warden
-1 Soul's Attendant
-1 Essence Warden
-1 Suture Priest
-1 Lunarch Veteran
-1 Guide of Souls
-1 Elas il-Kor, Sadistic Pilgrim
-1 Dina, Soul Steeper
-1 Marauding Blight-Priest
-1 Vito, Thorn of the Dusk Rose
-1 Bloodthirsty Conqueror
-1 Authority of the Consuls
-1 Righteous Valkyrie
-```
+### Sheet 1 — Blood and Ascension
 
-### Counters, Payoffs, and Life-Loss Tools
+Betor, combo pieces, lifegain payoffs, counter engines, and the biggest board-growth threats.
 
-```txt
-1 Winding Constrictor
-1 Essence Channeler
-1 Nighthawk Scavenger
-1 Amalia Benavides Aguirre
-1 Trelasarra, Moon Dancer
-1 Voice of the Blessed
-1 Exemplar of Light
-1 Archangel of Thune
-1 Nykthos Paragon
-1 Branching Evolution
-1 Unspeakable Symbol
-1 Staff of Compleation
-```
+![Betor V2 Sheet 1 — Blood and Ascension](images/BetorV2Render1.png)
 
-### Self-Mill, Draw, and Graveyard Setup
+### Sheet 2 — Graveyard Teeth
 
-```txt
-1 Stitcher's Supplier
-1 Commune with the Gods
-1 Grisly Salvage
-1 Buried Alive
-1 Skullclamp
-1 Necropotence
-1 Doom Whisperer
-1 Ripples of Undeath
-1 Ral Zarek, Guest Lecturer
-```
+Self-mill, draw, recursion, reanimation, and graveyard engines.
 
-### Recursion and Rebuild
+![Betor V2 Sheet 2 — Graveyard Teeth](images/BetorV2Render2.png)
 
-```txt
-1 Lurrus of the Dream-Den
-1 Eternal Witness
-1 Priest of Fell Rites
-1 Serra Paragon
-1 Karmic Guide
-1 Sorin, Vengeful Bloodlord
-1 Sorin, Solemn Visitor
-1 Animate Dead
-1 Reanimate
-1 Debtors' Knell
-```
+### Sheet 3 — Mercy Is a Weapon
 
-### Interaction, Protection, Tutors, and Finishers
+Lifegain starters, removal, tutors, Sorins, and protection.
 
-```txt
-1 Toxic Deluge
-1 Swords to Plowshares
-1 Anguished Unmaking
-1 Assassin's Trophy
-1 Inkshield
-1 Finale of Devastation
-1 Demonic Tutor
-1 Eladamri's Call
-1 Living Death
-```
+![Betor V2 Sheet 3 — Mercy Is a Weapon](images/BetorV2Render3.png)
+
+### Sheet 4 — Relics, Rings, and Rotten Light
+
+Mana rocks, ramp, and early fixing.
+
+![Betor V2 Sheet 4 — Relics, Rings, and Rotten Light](images/BetorV2Render4.png)
+
+### Sheet 5 — The Roads to the Grave
+
+The main nonbasic land package.
+
+![Betor V2 Sheet 5 — The Roads to the Grave](images/BetorV2Render5.png)
+
+### Sheet 6 — Last Gates
+
+Utility lands that still matter late.
+
+![Betor V2 Sheet 6 — Last Gates](images/BetorV2Render6.png)
 
 ---
 
@@ -179,6 +222,7 @@ The deck can play a slower value game, but it also has explosive turns where one
 
 Some of the scariest cards in the deck include:
 
+* **Betor, Ancestor's Voice**
 * **Bloodthirsty Conqueror**
 * **Dina, Soul Steeper**
 * **Marauding Blight-Priest**
@@ -198,58 +242,18 @@ Some of the scariest cards in the deck include:
 
 ---
 
-## 🖼️ Visual Deck Sheets
-
-These images are made in smaller groups so the cards stay readable.
-
-### Sheet 1 — The Ancestor’s Door
-
-![Betor V2 Sheet 1](betor-v2-sheet-01-ancestors-door.jpeg)
-
-### Sheet 2 — Bloodstained Roads
-
-![Betor V2 Sheet 2](betor-v2-sheet-02-bloodstained-roads.jpeg)
-
-### Sheet 3 — Vaults, Relics, and Dark Mana
-
-![Betor V2 Sheet 3](betor-v2-sheet-03-vaults-relics-dark-mana.jpeg)
-
-### Sheet 4 — First Blood, First Breath
-
-![Betor V2 Sheet 4](betor-v2-sheet-04-first-blood-first-breath.jpeg)
-
-### Sheet 5 — The Drain Choir
-
-![Betor V2 Sheet 5](betor-v2-sheet-05-drain-choir.jpeg)
-
-### Sheet 6 — Saints Made Monstrous
-
-![Betor V2 Sheet 6](betor-v2-sheet-06-saints-made-monstrous.jpeg)
-
-### Sheet 7 — The Body Remembers
-
-![Betor V2 Sheet 7](betor-v2-sheet-07-body-remembers.jpeg)
-
-### Sheet 8 — Graveyard Prophets
-
-![Betor V2 Sheet 8](betor-v2-sheet-08-graveyard-prophets.jpeg)
-
-### Sheet 9 — Mercy Is a Weapon
-
-![Betor V2 Sheet 9](betor-v2-sheet-09-mercy-is-a-weapon.jpeg)
-
-### Sheet 10 — The Table Dies Here
-
-![Betor V2 Sheet 10](betor-v2-sheet-10-table-dies-here.jpeg)
-
----
-
 ## 🗂️ Downloads & Extras
 
-| File            | What It Is                                       | Download                              |
-| --------------- | ------------------------------------------------ | ------------------------------------- |
-| Decklist        | Copy/paste decklist for imports or quick editing | [Download TXT](betor-v2.txt)          |
-| Deck Background | Background / inspiration image for the deck      | [Download Image](BetorBackground.jpg) |
+| File            | What It Is                                         | Download                                     |
+| --------------- | -------------------------------------------------- | -------------------------------------------- |
+| Decklist        | Copy/paste decklist for imports or quick editing   | [Download TXT](betor-v2.txt)                 |
+| Sheet 1         | Betor, combo pieces, and lifegain payoffs          | [Download Image](images/BetorV2Render1.png)  |
+| Sheet 2         | Graveyard, draw, and recursion engines             | [Download Image](images/BetorV2Render2.png)  |
+| Sheet 3         | Lifegain starters, removal, tutors, and protection | [Download Image](images/BetorV2Render3.png)  |
+| Sheet 4         | Ramp and mana                                      | [Download Image](images/BetorV2Render4.png)  |
+| Sheet 5         | Main nonbasic lands                                | [Download Image](images/BetorV2Render5.png)  |
+| Sheet 6         | Utility lands                                      | [Download Image](images/BetorV2Render6.png)  |
+| Deck Background | Background / inspiration image for the deck        | [Download Image](images/BetorBackground.jpg) |
 
 ---
 
@@ -265,7 +269,7 @@ Newest files in this folder are the current version.
 
 # 🧪 Combo Lines and Synergies to Look For
 
-This section explains the main lines in the deck. Some of these are full win conditions, while others are value engines that help the deck build toward a win.
+This section explains the main lines in the deck. Some are full win conditions. Others are value engines that help the deck build toward a win.
 
 ---
 
