@@ -253,7 +253,7 @@ Some of the scariest cards in the deck include:
 | Sheet 4         | Ramp and mana                                      | [Download Image](images/BetorV2Render4.png)  |
 | Sheet 5         | Main nonbasic lands                                | [Download Image](images/BetorV2Render5.png)  |
 | Sheet 6         | Utility lands                                      | [Download Image](images/BetorV2Render6.png)  |
-| Deck Background | Background / inspiration image for the deck        | [Download Image](images/BetorBackground.jpg) |
+| Deck Background | Background / inspiration image for the deck        | [Download Image](images/Eldraine1.jpg) |
 
 ---
 
